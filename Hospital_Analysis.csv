@@ -1,0 +1,16 @@
+Appointment_ID,Patient_ID,Doctor_ID,Appointment_Date,Cost,Doctor_Name,Department,Patient_Name,Age,Gender,City,Month
+1,1,1,2024-01-05,500.0,Dr. Ahmed,Cardiology,Ahmed Ali,25,Male,Cairo,1
+2,2,2,2024-01-07,700.0,Dr. Sara,Neurology,Sara Mohamed,30,Female,Alexandria,1
+3,3,1,2024-01-10,500.0,Dr. Ahmed,Cardiology,Omar Hassan,40,Male,Giza,1
+4,4,3,2024-01-12,600.0,Dr. Omar,Orthopedics,Mona Adel,35,Female,Cairo,1
+5,5,4,2024-01-15,400.0,Dr. Mona,Pediatrics,Youssef Samy,28,Male,Mansoura,1
+6,6,5,2024-01-18,350.0,Dr. Khaled,Dermatology,Nour Tarek,22,Female,Alexandria,1
+7,7,1,2024-02-02,500.0,Dr. Ahmed,Cardiology,Khaled Fathy,45,Male,Cairo,2
+8,8,2,2024-02-05,700.0,Dr. Sara,Neurology,Aya Mostafa,32,Female,Giza,2
+9,9,3,2024-02-10,600.0,Dr. Omar,Orthopedics,Mahmoud Essam,27,Male,Tanta,2
+10,10,4,2024-02-15,400.0,Dr. Mona,Pediatrics,Fatma Ali,38,Female,Cairo,2
+11,1,5,2024-03-03,350.0,Dr. Khaled,Dermatology,Ahmed Ali,25,Male,Cairo,3
+12,2,1,2024-03-08,500.0,Dr. Ahmed,Cardiology,Sara Mohamed,30,Female,Alexandria,3
+13,3,2,2024-03-12,700.0,Dr. Sara,Neurology,Omar Hassan,40,Male,Giza,3
+14,4,3,2024-03-15,600.0,Dr. Omar,Orthopedics,Mona Adel,35,Female,Cairo,3
+15,5,4,2024-03-20,400.0,Dr. Mona,Pediatrics,Youssef Samy,28,Male,Mansoura,3
